@@ -3,6 +3,6 @@
    "firstName": "Екатерина",
    "lastName": "Коваленко",
    "Pets": 1,
-  "Salary": 60000
- }
+   "Salary": "60000"
 
+}
